@@ -1,1 +1,1 @@
-Skills: 1, 2, 3
+Skills: 1, 2, 3, resources has changed
